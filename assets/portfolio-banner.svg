@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Abhishek Anil Kumar — Software Developer</title>
+  <desc id="desc">A dark modern portfolio banner with abstract blue and violet gradients, code-inspired decorative elements, and a full-stack software developer headline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="55%" stop-color="#101c34"/>
+      <stop offset="100%" stop-color="#1b1740"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4fd1c5"/>
+      <stop offset="52%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="80%" cy="25%" r="55%">
+      <stop offset="0%" stop-color="#635bdb" stop-opacity=".34"/>
+      <stop offset="100%" stop-color="#635bdb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="15%" cy="95%" r="50%">
+      <stop offset="0%" stop-color="#0ea5a4" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#0ea5a4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#b9c7e8" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#glowA)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#glowB)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1040" cy="84" r="112" fill="#6366f1" opacity=".12" filter="url(#soft)"/>
+  <circle cx="915" cy="292" r="100" fill="#14b8a6" opacity=".12" filter="url(#soft)"/>
+  <path d="M850 0C920 70 920 190 1010 250S1150 300 1200 270" fill="none" stroke="url(#accent)" stroke-opacity=".34" stroke-width="2"/>
+  <path d="M890 0C960 78 955 175 1040 220S1155 270 1200 250" fill="none" stroke="#9aa8ff" stroke-opacity=".2" stroke-width="1.4"/>
+  <g opacity=".35" fill="none" stroke="url(#accent)" stroke-width="2">
+    <rect x="900" y="82" width="210" height="142" rx="14"/>
+    <path d="M900 112H1110"/>
+    <circle cx="922" cy="98" r="3" fill="#4fd1c5" stroke="none"/>
+    <circle cx="936" cy="98" r="3" fill="#60a5fa" stroke="none"/>
+    <circle cx="950" cy="98" r="3" fill="#a78bfa" stroke="none"/>
+    <path d="M936 149l-18 16 18 16M972 181l20-32M1010 149h55M1010 168h76M1010 187h40" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#dbeafe" opacity=".75" font-family="monospace" font-size="15">
+    <text x="928" y="254">&lt;build /&gt;</text>
+    <text x="1060" y="62" opacity=".45">01</text>
+    <text x="1140" y="292" opacity=".45">{ }</text>
+  </g>
+  <rect x="70" y="67" width="58" height="4" rx="2" fill="url(#accent)"/>
+  <text x="70" y="132" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="-.8">ABHISHEK ANIL KUMAR</text>
+  <text x="72" y="177" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500">SOFTWARE DEVELOPER</text>
+  <text x="72" y="216" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="1.5">FULL-STACK DEVELOPMENT  ·  WEB APPLICATIONS  ·  AI &amp; AUTOMATION</text>
+  <rect x="72" y="255" width="300" height="1.5" rx="1" fill="url(#accent)" opacity=".75"/>
+  <text x="72" y="287" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Building practical products. Learning continuously.</text>
+  <rect x="1" y="1" width="1198" height="338" rx="23" fill="none" stroke="#8ba0c8" stroke-opacity=".2"/>
+</svg>
