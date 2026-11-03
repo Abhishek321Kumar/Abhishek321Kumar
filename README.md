@@ -124,19 +124,6 @@ I'm **Abhishek Anil Kumar**, a software developer with **1 year of professional 
 
 ---
 
-## 📈 GitHub at a Glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek321Kumar&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Abhishek's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek321Kumar&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek321Kumar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="96%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in opportunities where I can contribute to building reliable web applications, learn from experienced teams, and grow as a software developer.
